@@ -1,5 +1,5 @@
 <?php
-class Igreja{
+class Instituicao{
     private int $id;
     private string $nome;
     private string $email;
